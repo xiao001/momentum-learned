@@ -35,7 +35,7 @@ DATA_PATH = DATA_DIR / "Data_V1.xlsx"
 CONFIG = {
     "author_name": "Xiao Xue",
     "author_tagline": "Quantitative Finance / ML",
-    "github_url": "https://github.com/your-username/your-repo",
+    "github_url": "https://github.com/xiao001/momentum-learned",
     "linkedin_url": "https://www.linkedin.com/in/xiao-xue-9a5b88103/",
     "email": "you@example.com",
     "notebook_note": "Full research notebooks (feature engineering, Lasso/MLP/LSTM "

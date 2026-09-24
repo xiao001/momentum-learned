@@ -260,7 +260,7 @@ tab_results, tab_method, tab_demo, tab_about = st.tabs(
 with tab_results:
     st.caption(
         "Precomputed results from the research notebook, held-out test period, "
-        "quarterly rebalancing. Click a card for detail."
+        "daily rebalancing. Click a card for detail."
     )
 
     if "active_card" not in st.session_state:

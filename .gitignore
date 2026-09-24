@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+~$*.xlsx
+.ipynb_checkpoints/
+.claude/
+_*.py
+_*.log
+/archive/
